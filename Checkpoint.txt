@@ -6,3 +6,15 @@ A. Numbers of Characters
         add +1 to the sentence container
     5. Stop reading when you read a dot "." (full-stop)
     6. Print the total length of the sentence
+
+B. Number of Words in the Sentence
+    1. Create a container to hold the sentence
+    2. Create a container to hold the number of words (Word Count)
+    3. Store the sentence in a Sentence container
+    4. Read the sentence character by character and add +1 to Word Count 
+        for each space character you read.
+    5. Repeat step 4 till you read a a dot "." (full-stop) then you stop.
+    6. Print the total Word Count
+
+
+
